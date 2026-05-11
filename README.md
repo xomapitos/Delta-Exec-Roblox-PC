@@ -18,5 +18,3 @@ Delta Exec Roblox PC is a professional scripting utility for PC gaming environme
   </pre>
   
   <strong>⚡ Delta Exec: Advanced Scripting Environment for PC</strong><br>
-  <sub>Powered by modern execution techniques | Roblox & Lua scripts</sub>
-</p>
